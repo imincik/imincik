@@ -1,7 +1,7 @@
 ## Ivan Mincik - @imincik, DevOps Engineer
 
-DevOps Engineer with specialty in reproducible systems development based on free
-geospatial software and Nix/NixOS.
+DevOps Engineer with specialty in development of reproducible geospatial systems
+based on Nix and NixOS.
 
 My CV: [PDF](https://github.com/imincik/resume/blob/master/resume.pdf)
 
