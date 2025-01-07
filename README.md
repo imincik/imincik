@@ -1,6 +1,6 @@
 ## Ivan Mincik - @imincik, DevOps Engineer
 
-Life long free software DevOps engineer, Geospatial NIX developer.
+DevOps engineer and Geospatial NIX developer.
 
 My CV: [PDF](https://github.com/imincik/resume/blob/master/resume.pdf)
 
