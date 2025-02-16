@@ -1,4 +1,4 @@
-## Ivan Mincik - @imincik, DevOps Engineer
+## Ivan Mincik - @imincik
 
 Geographer, Free software and Nix fan.
 
