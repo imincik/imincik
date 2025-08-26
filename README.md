@@ -1,6 +1,6 @@
 ## Ivan Mincik - @imincik
 
-I like to build and run other people geospatial software using [Nix](https://geospatial-nix.today/).
+I like to build and run other people's geospatial software using [Nix](https://geospatial-nix.today/).
 
 My CV: [PDF](https://github.com/imincik/resume/blob/master/resume.pdf)
 
