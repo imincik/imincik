@@ -1,6 +1,6 @@
 ## Ivan Mincik - @imincik
 
-Geographer, Free software and Nix fan.
+I like to build and run other people geospatial software using [Nix](https://geospatial-nix.today/).
 
 My CV: [PDF](https://github.com/imincik/resume/blob/master/resume.pdf)
 
